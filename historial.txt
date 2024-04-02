@@ -1,13 +1,6 @@
-Mi Nombre es:
-Gustavo Adolfo Alvarez Echeverri
-Naci en:
-Medellin - Antioquia - Colombia
-Edad:
-65 años
-Estudios
-Ingeniero Mecanico
-Tecnico en Electronica
+Mi Nombre es: Gustavo Adolfo Alvarez Echeverri
+Naci en: Medellin - Antioquia - Colombia
+Edad: 65 años
+Estudios: Ingeniero Mecanico - Tecnico en Electronica - Ralizo Reparaciones en Linea Blanca
 Actualmente me desempeño como Docente en Secundaria
-Aficiones:
-Programacion
-Aeromodelismo
+Aficiones: Programacion - Aeromodelismo
